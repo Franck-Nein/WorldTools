@@ -1,0 +1,3 @@
+[submodule "minutor"]
+	path = minutor
+	url = https://github.com/Franck-Nein/minutor
